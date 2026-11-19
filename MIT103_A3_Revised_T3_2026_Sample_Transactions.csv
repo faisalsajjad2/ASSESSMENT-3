@@ -1,0 +1,9 @@
+transaction_id,date,category,description,amount
+T001,02/11/2026,Food,Groceries,-48.50
+T002,03/11/2026,Transport,Train card,-25.00
+T003,04/11/2026,Income,Casual shift,180.00
+T004,05/11/2026,Food,Lunch,-14.20
+T005,06/11/2026,Bills,Mobile plan,-35.00
+T006,07/11/2026,Transport,Bus ticket,-5.60
+T007,08/11/2026,Income,Refund,20.00
+T008,09/11/2026,Food,Coffee,-6.50
